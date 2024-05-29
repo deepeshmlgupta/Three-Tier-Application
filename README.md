@@ -104,9 +104,5 @@ _I'd love for you to make the most of this project - it's all about learning, he
 
 Kindly go through [CONTRIBUTING.md](https://github.com/deepeshmlgupta/Three-Tier-App/blob/main/.github/CONTRIBUTING.md) to understand everything from setup to contributing guidelines.
 
-## 💖 Show Your Support
 
-If you find this project interesting and inspiring, please consider showing your support by starring it on GitHub! Your star goes a long way in helping me reach more developers and encourages me to keep enhancing the project.
-
-🚀 Feel free to get in touch with me for any further queries or support, happy to help :)
 
