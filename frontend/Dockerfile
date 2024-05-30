@@ -7,4 +7,4 @@ COPY .env.sample .env.local
 
 EXPOSE 3000
 
-CMD ["npm","run","dev", "--","--host"]
+CMD ["npm","run","dev"]
